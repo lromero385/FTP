@@ -1,5 +1,16 @@
 ## Welcome to GitHub Pages
 
+[Register Account](Register-Account.html)
+
+[Log In](Log-In.html)
+
+[Search Resources](Search-Resources.html)
+
+[Log Out](Log-Out.html)
+
+[Home](index.html)
+
+
 You can use the [editor on GitHub](https://github.com/lromero385/FTP/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
