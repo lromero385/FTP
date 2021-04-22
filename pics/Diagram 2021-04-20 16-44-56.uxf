@@ -8,7 +8,7 @@ lt=&lt;-</panel_attributes><additional_attributes>340;20;10;20</additional_attri
 
 lt=&lt;-</panel_attributes><additional_attributes>10;20;340;20</additional_attributes></element><element><id>Relation</id><coordinates><x>210</x><y>320</y><w>200</w><h>50</h></coordinates><panel_attributes>UserID=Record.UserID
 
-lt=&lt;-</panel_attributes><additional_attributes>180;20;10;20</additional_attributes></element><element><id>Relation</id><coordinates><x>40</x><y>250</y><w>200</w><h>60</h></coordinates><panel_attributes>DisplayPage(login.html)
+lt=&lt;-</panel_attributes><additional_attributes>180;20;10;20</additional_attributes></element><element><id>Relation</id><coordinates><x>40</x><y>350</y><w>200</w><h>60</h></coordinates><panel_attributes>DisplayPage(login.html)
 
 
 lt=&lt;-</panel_attributes><additional_attributes>10;20;180;20</additional_attributes></element></diagram>
