@@ -6,13 +6,13 @@
 
 [Search Resources](Search-Resources.html)
 
-[Save Resource](https://github.com/lromero385/FTP/blob/gh-pages/Save-Resource.html)
+[Save Resource](Save-Resource.html)
 
-[Post Resource](https://github.com/lromero385/FTP/blob/gh-pages/Post-Resource.html)
+[Post Resource](Post-Resource.html)
 
-[View Other Users' Resources](https://github.com/lromero385/FTP/blob/gh-pages/View-Other-Users'-Resources.html)
+[View Other Users' Resources](View-Other-Users'-Resources.html)
 
-[Share Resource](https://github.com/lromero385/FTP/blob/gh-pages/Share-Resource.html)
+[Share Resource](Share-Resource.html)
 
 [Home](index.html)
 
